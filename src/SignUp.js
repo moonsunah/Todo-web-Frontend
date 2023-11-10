@@ -25,7 +25,7 @@ function SignUp() {
         <Grid container spacing={2}>
           <Grid item xs={12}>
             <Typography component="h1" variant="h5">
-              계정 생성
+              회원 가입
             </Typography>
           </Grid>
           <Grid item xs={12}>
